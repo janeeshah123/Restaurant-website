@@ -1,0 +1,315 @@
+*{
+     margin:0;
+     padding: 0;
+    }
+ .parent{
+         background-image: url(./Rectangle\ \(3\).png);
+         height:940px;
+         background-repeat: no-repeat;
+         background-size: cover;
+     }
+.img-1{
+     margin-left:80px;
+     margin-top:65px;
+}
+.div-1{
+    margin-left:1200px;
+    position: absolute;
+    top:136px;
+    
+}
+.div-1 a{
+     color: white;
+     font-size:25px;
+     margin: 15px;
+     text-decoration: none;
+}
+.img-2{
+    position: absolute;
+    top:300px;
+    left:1269px;
+    height:61vh;
+}
+.img-3{
+     position: absolute;
+     top:300px;
+     left: 1290px;
+     height: 56vh;
+}
+.img-4{
+    position: absolute;
+    top:220px;
+    left:1269px;
+    height:71vh;
+}
+.div-2{
+     font-size:150px;
+     color: white;
+     margin-left:100px;
+     margin-top: 105px;
+}
+.di1{
+    color: bisque;
+    font-size:90px;
+    margin-left:55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left:100px;
+}
+.box{
+    background-color: white;
+    height: 60px;
+    border-radius:10px;
+    width:280px;
+    margin-left:140px;
+    margin-top: 40px;
+    display: flex;
+    border-radius: 40px;
+    
+}
+.di2{
+    color: black;
+    margin-left:30px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.di3{
+     color: white;
+     font-size: 30px;
+     margin-top: 30px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin-left: 110px;
+}
+.di4{
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:110px;
+    margin-top: 10px;
+}
+.box-1{
+     background-color: burlywood;
+     height: 600px;
+     width: 1910px;
+     display: flex;
+}
+.img-5{
+     margin-left:1300px;
+     position: absolute;
+     top:900px;
+}
+.img-6{
+     position: absolute;
+     left:1500px;
+     top:1020px;
+}
+.div-3{
+    font-size:39px;
+     color: #0a043d;
+    margin-left: 130px;
+    margin-top: 130px;
+    display: flex;
+}
+.di5{
+      font-size: 25px;
+       color: #120529;
+       margin-top:190px;
+       position: absolute;
+       left: 140px;
+}
+.div-4{
+   font-size: 39px;
+   color: #0a043d;
+   margin-top:430px;
+     position: absolute;
+     left: 1400px;
+}
+.di6{
+     font-size: 25px;
+     color: black;
+     margin-top:500px;
+     position: absolute;
+     left:1410px;
+}
+.di7{
+      font-size:25px;
+      color: black;
+      margin-top: 560px;
+      position: absolute;
+      left: 1520px;
+}
+.box-2{
+      background-image: url(./Rectangle\ \(3\).png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 1500px;
+}
+.img-7{
+     height: 1200px;
+}
+.img-8{
+      position: absolute;
+      top:1600px;
+      left:20px;
+      height:1300px;
+}
+.img-9{
+      position: absolute;
+      top:1300px;
+      left:50px;
+      height:1220px;
+}
+.img-10{
+      position: absolute;
+      top:2300px;
+      left:799px;
+     height:630px;
+}
+.img-11{
+      position: absolute;
+      top:2310px;
+      left:760px;
+      height: 625px;
+}
+.di8{
+     position: absolute;
+     top:1580px;
+     color: white;
+     left:1650px;
+     font-size:39px;
+}
+.di9{
+      position: absolute;
+      top:1650px;
+      left:1570px;
+      font-size:23px;
+      color: white;
+      margin:5px;
+}
+.di10{
+     position: absolute;
+     top:1700px;
+     left:1700px;
+     color: white;
+     font-size:25px;
+}
+.box-3{
+     background-color: burlywood;
+     height:610px;
+     width: 1910px;
+     display: flex;
+}
+.di11{
+      margin-left: 590px;
+       font-size: 53px;
+       color: rgb(1, 2, 15);
+       position: absolute;
+       top:3220px;
+}
+.di12{
+      font-size:25px;
+      color: black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-top: 310px;
+      margin-left: 100px;
+      display: flex;
+} 
+ .di13{
+     font-size:25px;
+     color: black;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin-top:310px;
+     margin-left:250px;
+     display: flex;
+} 
+.box-4{
+      background-color:rgba(0, 0, 0, 0.829);
+      height:55px;
+      width: 300px;
+      margin-top:510px;
+      position: absolute;
+      left:790px;
+      border-radius:20px;
+      display: flex;
+}
+.di14{
+     color: burlywood;
+     font-size:30px;
+     margin-left: 40px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin-top: 10px;
+} 
+.img-12{
+     height:400px;
+     margin-top:900px;
+}  
+.box-5{
+     background-color: burlywood;
+     height:1170px;
+}
+.img-12{
+     height:460px;
+     margin-top: 100px;
+     margin-left:170px;
+     width: 650px;
+}
+.img-13{
+     margin-left:300px;
+     height: 460px;
+     width:650px;
+}
+.img-14{
+     margin-left:180px;
+     height:460px;
+     width: 650px;
+     margin-top: 40px;
+}
+.img-15{
+     margin-left:300px;
+     height: 460px;
+     width: 650px;
+     margin-top:40px;
+
+}
+.box-6{
+     background-color: burlywood;
+     height: 900px;
+}
+.di15{
+      font-size: 40px;
+      color: #080618;
+      margin-left: 100px;
+}
+.di16{
+     font-size: 25px;
+     color: black;
+     margin-top: 50px;
+     margin-left:100px;
+}
+.di17{
+     font-size: 28px;
+     color: black;
+     margin-top:55px;
+     margin-left: 100px;
+}
+.img-16{
+     position: absolute;
+     left: 800px;
+     top:4650px;
+     height: 1034px;
+}
+.img-17{
+     position: absolute;
+     top:5500px;
+     left: 100px;
+}
+.img-18{
+     position: absolute;
+     top:5500px;
+     left: 120px;
+}
+.img-19{
+     position: absolute;
+     top:5500px;
+     left: 140px;
+}
